@@ -47,6 +47,7 @@ gca_languages["tr"] = {
 			guild_market_goto : "İttifak Marketine Git",
 			guild_storage_goto : "İttifak Deposuna Git",
 			guild_bank_goto : "İttifak Bankasına Git",
+			guild_baths_goto: "Hamam'a Git (Vox Logus 1)",
 			guild_warcamp_goto : "Usta Savaşçılar Salonuna Git",
 			guild_arenareports_goto : "Usta Savaşçılar Salonunun Raporlarına Git",
 			guild_jail_goto : "Negotium X'e Git",
