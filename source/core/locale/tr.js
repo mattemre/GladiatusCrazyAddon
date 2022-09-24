@@ -160,7 +160,10 @@ gca_languages["tr"] = {
 			//Hamam
 			pinned_message : "Sabitlenmiş ittifak mesajı",
 			pin_unpin_message : "Bu mesajı sabitle veya sabitlemesini kaldır",
-			pinned_message_info : "Bu özelliği kullanan tüm ittifak üyeleri için mesajların üst kısmında sabitlenmiş mesajlar görüntülenir."
+			pinned_message_info : "Bu özelliği kullanan tüm ittifak üyeleri için mesajların üst kısmında sabitlenmiş mesajlar görüntülenir.",
+
+			//Önemli Rütbeler
+			important_ranks : "Önemli rütbeler"
 		},
 
 		//Keşif
@@ -353,6 +356,9 @@ gca_languages["tr"] = {
 			category_global$show_mercenaries_real_name_and_combat_stats : "Araç ipuçlarında paralı askerlerin gerçek adlarını (tür) ve savaş istatistiklerini görüntüleyin",
 			category_global$show_upgrade_values : "Takviye ve yükseltmelerde güçlendirme değerlerini göster",
 			category_global$global_arena_timer : "Global Arena zamanlayıcısını göster",
+			category_global$gladiatus_site_fixes : "Gladiatus site sorunlarını düzelt ve iyileştir",
+			category_global$lock_section_visibility : "Gizlenebilir bölümlerin mevcut durumunu kilitle",
+			category_global$hide_language_flags : "Oyuncu isimlerinin altındaki bayrakları gizle",
 			//Genel Bakış
 			category_overview$analyze_items : "Eşyaların durumlarını analiz et (Eğitim için gereklidir)",
 			category_overview$food_life_gain : "Malzemelerden hayat kazancını göster",
@@ -392,6 +398,7 @@ gca_languages["tr"] = {
 			category_packages$double_click_open : "Paketleri açmak için çift tıkla",
 			category_packages$advance_filter : "Gelişmiş sandık filtrelemesini etkinleştir",
 			category_packages$pop_over_bag : "Kaydırmada çantayı aç",
+			category_packages$packages_shortcuts : "Öğe kategorileri kısayollarını ekle",
 			//Pantheon (Görev) Ayarları
 			category_pantheon$quests_reorder : "Görev grubunu göster",
 			category_pantheon$quests_detailed_rewards : "Görevlerin ödüllerini ayrıntılı göster",
